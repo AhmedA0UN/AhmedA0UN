@@ -44,4 +44,12 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedA0UN&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+#### Follow  my on github and linkedin (^_−)−☆
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinabyte&label=Profile%20views&color=0e75b6&style=flat" alt="tinabyte" /> </p>
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/ahmed-aoun)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
