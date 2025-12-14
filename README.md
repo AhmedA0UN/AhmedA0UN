@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💬 If you are interested in collaborative projects, exchange of ideas or innovation opportunities, do not hesitate to contact me +216 99152499 / ahmedaoun1@outlook.com .🤝 ! 🧠
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<!--🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
 
 ## 🌐 Socials:
