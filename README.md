@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-🎓 Integrated preparatory cycle student, passionate about DevOps, Cloud computing, and the Internet of Things (IoT). I combine a solid command of languages ​(Python, C/C++, Java) and modern tools (Git, GitHub, GitLab, Bitbucket, Prompt Engineering / Vibe-coding) with skills in designing robust, secure, and scalable solutions.
+🎓 Integrated preparatory cycle student, passionate about DevOps, Cloud computing, and the Internet of Things (IoT). I combine a solid command of languages ​(Python, C/C++, Java) and modern tools (Git, GitHub, GitLab, Bitbucket, Jira, Prompt Engineering / Vibe-coding) with skills in designing robust, secure, and scalable solutions.
 
 💡 My approach goes beyond technology: I value communication, teamwork, and active listening to unite around ambitious projects. Thanks to my academic and community experiences, I have developed skills in project management, leadership, strategic decision-making and problems solving+ competitif programming & In my free time, I remain curious about technological innovation 💡and deepening my knowledge. 📚
 
