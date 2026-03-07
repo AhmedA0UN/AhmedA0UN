@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 
-# <p>💫 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=500&height=75&lines=+About+Me%3A" alt="Typing SVG" /></a></p>
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=500&height=75&lines=+About+Me%3A)](https://git.io/typing-svg)-->
-<!-- About Me:-->
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&weight=500&size=50&pause=200&color=F7F7F7&width=500&height=75&lines=%F0%9F%92%AB+About+Me%3A)](https://git.io/typing-svg)
+<!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=500&height=75&lines=+About+Me%3A" alt="Typing SVG" /></a>  -->
+
+<!-- 💫 About Me:-->
 
 🎓 Integrated preparatory cycle student, passionate about DevOps, Cloud computing, and the Internet of Things (IoT). I combine a solid command of languages ​(Python, C/C++, Java) and modern tools (Git, GitHub, GitLab, Bitbucket, Jira, Prompt Engineering / Vibe-coding) with skills in designing robust, secure, and scalable solutions.
 
