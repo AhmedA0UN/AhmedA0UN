@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🎓 Integrated preparatory cycle student, passionate about DevOps, Cloud computing, and the Internet of Things (IoT). I combine a solid command of languages ​(Python, C/C++, Java) and modern tools (Git, GitHub, GitLab, Bitbucket, Jira, Prompt Engineering / Vibe-coding) with skills in designing robust, secure, and scalable solutions.
 
-💡 My approach goes beyond technology: I value communication, teamwork, and active listening to unite around ambitious projects. Thanks to my academic and community experiences, I have developed skills in project management, leadership, strategic decision-making and problems solving+ competitif programming & In my free time, I remain curious about technological innovation 💡and deepening my knowledge. 📚 ![More about me -->](https://ahmeda0un.github.io/site-Portfolio-DevOps.io) 
+💡 My approach goes beyond technology: I value communication, teamwork, and active listening to unite around ambitious projects. Thanks to my academic and community experiences, I have developed skills in project management, leadership, strategic decision-making and problems solving+ competitif programming & In my free time, I remain curious about technological innovation 💡and deepening my knowledge. 📚  [More about me -->](https://ahmeda0un.github.io/site-Portfolio-DevOps.io) 
 
 
 <!--🌍 Committed to Tunisian civil society, I am convinced that technology is a lever for positive impact. I seek to take on new challenges and contribute to innovative projects that shape the future. -->
