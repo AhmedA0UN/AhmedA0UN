@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 💡 My approach goes beyond technology: I value communication, teamwork, and active listening to unite around ambitious projects. Thanks to my academic and community experiences, I have developed skills in project management, leadership, strategic decision-making and problems solving+ competitif programming & In my free time, I remain curious about technological innovation 💡and deepening my knowledge. 📚
 
-🌍 Committed to Tunisian civil society, I am convinced that technology is a lever for positive impact. I seek to take on new challenges and contribute to innovative projects that shape the future.
+<!--🌍 Committed to Tunisian civil society, I am convinced that technology is a lever for positive impact. I seek to take on new challenges and contribute to innovative projects that shape the future. -->
 
 💬 If you are interested in collaborative projects, exchange of ideas or innovation opportunities, do not hesitate to contact me +216 99152499 / ahmedaoun1@outlook.com .🤝 ! 🧠
 
